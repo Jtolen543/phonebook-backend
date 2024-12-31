@@ -12,8 +12,11 @@
   "description": "",
   "dependencies": {
     "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
     "express": "^4.21.2",
     "fly": "^4.6.11",
+    "mongodb": "^6.12.0",
+    "mongoose": "^8.9.2",
     "morgan": "^1.10.0"
   },
   "devDependencies": {
