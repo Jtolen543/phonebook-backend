@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for node-testing-old-voice-8139 on 2024-12-27T18:57:12-05:00
+# fly.toml app configuration file generated for phonebook-backend-aged-dawn-3180 on 2024-12-30T21:20:35-05:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'node-testing-old-voice-8139'
+app = 'phonebook-backend-aged-dawn-3180'
 primary_region = 'atl'
 
 [build]
